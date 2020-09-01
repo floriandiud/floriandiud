@@ -1,8 +1,8 @@
 ### Hi, I'm Florian 👋
 
-🔭 I’m currently working on <a href="https://www.datablist.com/">Datablist</a>, which is an automation platform. Like Google Drive/Dropbox can be seens as information hub for an organization, **Datablist** is a data hub to store employees, invoices, etc. in structured objects. On top on this data store, applications are plugged to automate workflows and processes. If you want to talk about it, contact me 🤝
+🔭 I’m currently working on <a href="https://www.datablist.com/">Datablist</a>, which is an automation platform. Like Google Drive/Dropbox can be seens as information hub for an organization, **Datablist** is a data hub to store leads, contacts, employees, invoices, bank transactions, etc. in structured objects. On top on this data store, applications are connected to automate workflows and processes. If you want to talk about it, contact me 🤝
 
-🌎 Find me around the web :
+🌎 Find me around the web:
 - On <a href="https://www.linkedin.com/in/florianpoullin/">LinkedIn</a>.
 
 
